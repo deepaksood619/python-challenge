@@ -6,6 +6,7 @@
 # first and last small characters for exactly 3 capital sandwich
 
 # Solution - http://www.pythonchallenge.com/pc/def/linkedlist.html
+# Solution redirect - http://www.pythonchallenge.com/pc/def/linkedlist.php
 
 import re
 
