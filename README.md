@@ -10,3 +10,6 @@ level 2 - [equality.html](http://www.pythonchallenge.com/pc/def/equality.html)
 level 3 - [linkedlist.php](http://www.pythonchallenge.com/pc/def/linkedlist.php)
 
 level 4 - [peak.html](http://www.pythonchallenge.com/pc/def/peak.html)
+
+For next level hint -
+> Keep looking at the problem until the problem Quits
