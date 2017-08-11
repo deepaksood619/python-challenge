@@ -13,3 +13,5 @@ level 4 - [peak.html](http://www.pythonchallenge.com/pc/def/peak.html)
 
 For next level hint -
 > Keep Staring at the problem until the problem Quits
+
+level 5 - [channel.html](http://www.pythonchallenge.com/pc/def/channel.html)
