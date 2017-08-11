@@ -15,3 +15,5 @@ For next level hint -
 > Keep Staring at the problem until the problem Quits
 
 level 5 - [channel.html](http://www.pythonchallenge.com/pc/def/channel.html)
+
+level 6 - [oxygen.html](http://www.pythonchallenge.com/pc/def/oxygen.html)
