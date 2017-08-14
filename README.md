@@ -27,3 +27,5 @@ level 8 - [good.html](http://www.pythonchallenge.com/pc/return/good.html)
 level 9 - [bull.html](http://www.pythonchallenge.com/pc/return/bull.html)
 
 level 10 - [5808.html](http://www.pythonchallenge.com/pc/return/5808.html)
+
+level 11 - [evil.html](http://www.pythonchallenge.com/pc/return/evil.html)
