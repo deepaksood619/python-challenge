@@ -17,3 +17,5 @@ For next level hint -
 level 5 - [channel.html](http://www.pythonchallenge.com/pc/def/channel.html)
 
 level 6 - [oxygen.html](http://www.pythonchallenge.com/pc/def/oxygen.html)
+
+level 7 - [integrity.html](http://www.pythonchallenge.com/pc/def/integrity.html)
