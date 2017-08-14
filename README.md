@@ -23,3 +23,5 @@ level 7 - [integrity.html](http://www.pythonchallenge.com/pc/def/integrity.html)
 level 8 - [good.html](http://www.pythonchallenge.com/pc/return/good.html)
  Username - huge
  Password - file
+
+level 9 - [bull.html](http://www.pythonchallenge.com/pc/return/bull.html)
