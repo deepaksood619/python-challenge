@@ -24,14 +24,20 @@ level 8 - [good.html](http://www.pythonchallenge.com/pc/return/good.html)
  Username - huge
  Password - file
 
-level 9 - [bull.html](http://www.pythonchallenge.com/pc/return/bull.html)
+level 9 - [bull.html](http://www.pythonchallenge.com/pc/return/bull.html)  Username - huge
+ Password - file
 
-level 10 - [5808.html](http://www.pythonchallenge.com/pc/return/5808.html)
+level 10 - [5808.html](http://www.pythonchallenge.com/pc/return/5808.html) Username - huge
+ Password - file
 
-level 11 - [evil.html](http://www.pythonchallenge.com/pc/return/evil.html)
+level 11 - [evil.html](http://www.pythonchallenge.com/pc/return/evil.html) Username - huge
+ Password - file
 
-level 12 - [disproportional.html](http://www.pythonchallenge.com/pc/return/disproportional.html)
+level 12 - [disproportional.html](http://www.pythonchallenge.com/pc/return/disproportional.html) Username - huge
+ Password - file
 
-level 13 - [italy.html](http://www.pythonchallenge.com/pc/return/italy.html)
+level 13 - [italy.html](http://www.pythonchallenge.com/pc/return/italy.html) Username - huge
+ Password - file
 
-level 14 - [uzi.html](http://www.pythonchallenge.com/pc/return/uzi.html)
+level 14 - [uzi.html](http://www.pythonchallenge.com/pc/return/uzi.html) Username - huge
+ Password - file
