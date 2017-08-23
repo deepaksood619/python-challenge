@@ -41,3 +41,5 @@ level 13 - [italy.html](http://www.pythonchallenge.com/pc/return/italy.html) Use
 
 level 14 - [uzi.html](http://www.pythonchallenge.com/pc/return/uzi.html) Username - huge
  Password - file
+
+level 15 - [mozart.html](http://www.pythonchallenge.com/pc/return/mozart.html) Username - huge Password - file
