@@ -7,15 +7,21 @@
 # 3. 7 represent that every 7th value must be read as values are repeating itself
 # 4. convert the values to its ascii value, we get
 # 5. smart guy, you made it. the next level is [105, 110, 116, 101, 103, 114, 105, 116, 121]pe_
-# 6. igonore the last 3 characters as they are gitter
+# 6. ignore the last 3 characters as they are gitter
 # 7. take the dictionary and again convert it in ascii values
 # 8. We get integrity
 
 # Solution - http://www.pythonchallenge.com/pc/def/integrity.html
 
+import re
+import requests
 from PIL import Image
+from StringIO import StringIO
 
-png = Image.open("oxygen.png")
+# http://www.pythonchallenge.com/pc/def/oxygen.png
+
+req = requests.get('http://www.pythonchallenge.com/pc/def/oxygen.png')
+png = Image.open(StringIO(req.content))
 pix = png.load()
 
 x = 0
@@ -25,7 +31,7 @@ while(x < png.size[0]):
 	ans += str(chr(pix[x,y][0]))
 	x += 7
 
-print(ans)
+#print(ans)
 # smart guy, you made it. the next level is [105, 110, 116, 101, 103, 114, 105, 116, 121]pe_
 
 foo = [105, 110, 116, 101, 103, 114, 105, 116, 121]
